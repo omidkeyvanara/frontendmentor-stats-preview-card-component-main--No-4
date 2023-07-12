@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body{
+  width: 144rem;
+  background-color:  hsl(233, 47%, 7%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main{
+  background-color:  hsl(244, 38%, 16%);
+  display: flex;
+  border-radius: 10px 0 0 10px;
+}
+.text-box{
+  width:50rem ;
+  
+}
+
+.text-box{
+  padding: 4rem 0  0 5rem;
+}
+
+.head-image{
+  border-radius: 0 10px 10px 0;
+  width:50rem ;
+}
