@@ -11,9 +11,6 @@ html {
 body {
   width: 144rem;
   background-color: hsl(233, 47%, 7%);
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .main {
